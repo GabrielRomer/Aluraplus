@@ -179,7 +179,6 @@ body{
 
     .descricao_titulo {
         display: block;
-        align-items: center;
     }
     .descricao__texto{
         text-align: center;
