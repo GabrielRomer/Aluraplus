@@ -161,16 +161,16 @@ body{
         width: 50vw;
     }
     .dispositivos__lista{
-        display: flex;
+        display: block;
     }
     .rodape__lista{
-        display: flex;
+        display: block;
     }
     .patrocinadores__lista{
-        display: flex;
+        display: block;
     }
     .descricao__titulo{
-        display: flex;
+        display: block;
         align-items: center;
     }
     .descricao_paragrafo{
