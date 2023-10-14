@@ -147,8 +147,7 @@ body{
         margin: 0 0 0 4em;
         padding: 0;
     }
-    
-    .container{
+        .container{
         display: block;
         background-image: none;
     }
@@ -171,5 +170,4 @@ body{
     .rodape__lista{
         display: block;
     }
-    
 }
