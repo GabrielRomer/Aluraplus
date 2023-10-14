@@ -140,13 +140,7 @@ body{
     color: var(--cor-de-fundo);
 }
 @media screen and(max-width:768px){
-    :root{
-        margin: 0;
-    }
-    .body{
-        margin: 0 0 0 4em;
-        padding: 0;
-    }
+    
     .container{
         display: block;
         background-image: none;
