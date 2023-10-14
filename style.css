@@ -161,7 +161,7 @@ body{
         width: 50vw;
     }
     .dispositivos__lista{
-        display: block;
+        display: flex;
     }
     .rodape__lista{
         display: block;
