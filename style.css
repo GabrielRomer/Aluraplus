@@ -181,7 +181,7 @@ body{
         align-items: center;
     }
     .descricao__texto{
-        text-align: center;
+        text-align: block;
     }
 
     /*rodape */
