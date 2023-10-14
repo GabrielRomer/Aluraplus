@@ -139,7 +139,7 @@ body{
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
-@media screen and(max-width:768px){
+@media screen and (max-width:768px){
     :root{
         margin: 0;
     }
