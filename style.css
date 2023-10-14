@@ -149,11 +149,10 @@ body{
     }
 
     /*container*/
-
     .container__principal{
         display: block;
         background-image: none;
-    }   
+    } 
     .container__imagem{
         width: 50vw;
     }
