@@ -149,7 +149,7 @@ body{
     }
 
     /*container*/
-    .container__principal{
+    .container{
         display: block;
         background-image: none;
     } 
