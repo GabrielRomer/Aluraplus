@@ -139,36 +139,36 @@ body{
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
-@media screen and (max-width: 768px) {
+@media screen and(max-width:768px){
     :root{
         margin: 0;
     }
     .body{
-        margin:0 0 0 4em;
+        margin: 0 0 0 4em;
         padding: 0;
     }
-
-    .container {
+    .container{
         display: block;
         background-image: none;
     }
-    .container__imagem {
+    .container__imagem{
         width: 50vw;
     }
-    .container__caixa {
+    .container__caixa{
         margin: 2em 2em;
     }
-    .secundario {
+    .secundario{
         margin: 0;
         text-align: center;
     }
-    .secundario__imagem {
+    .secundario__imagem{
         width: 50vw;
     }
-    .dispositivos__lista {
+    .dispositivos__lista{
         display: block;
     }
-    .rodape__lista {
+    .rodape__lista{
         display: block;
     }
+    
 }
