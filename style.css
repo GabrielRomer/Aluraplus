@@ -169,6 +169,9 @@ body{
     .rodape__lista{
         display: block;
     }
+    .patrocinadores__lista{
+        display: block;
+    }
     .descricao__texto{
         display: block;
     }
