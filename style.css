@@ -163,6 +163,9 @@ body{
     .dispositivos__lista{
         display: block;
     }
+    .dispositivos__titulo{
+        display: block;
+    }
     .rodape_logo{
         text-align: center;
     }
