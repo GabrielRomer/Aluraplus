@@ -147,7 +147,7 @@ body{
         margin: 0 0 0 4em;
         padding: 0;
     }
-        .container{
+    .container{
         display: block;
         background-image: none;
     }
@@ -156,10 +156,6 @@ body{
     }
     .container__caixa{
         margin: 2em 2em;
-    }
-    .secundario{
-        margin: 0;
-        text-align: center;
     }
     .secundario__imagem{
         width: 50vw;
@@ -170,16 +166,15 @@ body{
     .rodape__lista{
         display: block;
     }
-    .patrocinadores_lista {
+    .patrocinadores__lista{
         display: block;
     }
-
-    .descricao_titulo {
+    .descricao__titulo{
         display: block;
         align-items: center;
     }
-
-    .descricao_paragrafo {
+    .descricao_paragrafo{
         text-align: center;
     }
+    
 }
