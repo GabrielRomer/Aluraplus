@@ -150,12 +150,16 @@ body{
     .container{
         display: block;
         background-image: none;
-    }
+    }   
     .container__imagem{
         width: 50vw;
     }
     .container__caixa{
         margin: 2em 2em;
+    }
+    .secundario{
+        margin: 0;
+        text-align: center;
     }
     .secundario__imagem{
         width: 50vw;
@@ -163,24 +167,17 @@ body{
     .dispositivos__lista{
         display: block;
     }
-    .rodape_logo{
-        text-align: center;
+    .dispositivos{
+        display: block;
     }
     .rodape__lista{
         display: block;
     }
-    .dispositivos{
-        display: block;
-    }
-    .descricao__texto{
-        display: block;
-    }
-    .descricao__titulo{
+    .descricao_titulo {
         display: block;
         align-items: center;
     }
-    .descricao_paragrafo{
+    .descricao_paragrafo {
         text-align: center;
     }
-    
 }
