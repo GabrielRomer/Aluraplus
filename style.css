@@ -147,7 +147,6 @@ body{
         margin: 0 0 0 4em;
         padding: 0;
     }
-
     /*container*/
     .container{
         display: block;
@@ -168,14 +167,12 @@ body{
     }
    
     /* dispositivos */
-
     .dispositivos{
         display: block;
     }
     .dispositivos__lista{
         display: block;
     }
-
     .descricao_titulo {
         display: block;
         align-items: center;
@@ -183,7 +180,6 @@ body{
     .descricao__texto{
         text-align: center;
     }
-
     /*rodape */
     .rodape{
         display: block;
