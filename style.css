@@ -172,6 +172,9 @@ body{
     .patrocinadores__lista{
         display: block;
     }
+    .descricao__texto{
+        display: block;
+    }
     .descricao__titulo{
         display: block;
         align-items: center;
