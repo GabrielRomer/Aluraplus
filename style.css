@@ -164,13 +164,13 @@ body{
         display: flex;
     }
     .rodape__lista{
-        display: block;
+        display: flex;
     }
     .patrocinadores__lista{
-        display: block;
+        display: flex;
     }
     .descricao__titulo{
-        display: block;
+        display: flex;
         align-items: center;
     }
     .descricao_paragrafo{
