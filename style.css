@@ -147,7 +147,10 @@ body{
         margin: 0 0 0 4em;
         padding: 0;
     }
-    .container{
+
+    /*container*/
+
+    .container__principal{
         display: block;
         background-image: none;
     }   
@@ -157,27 +160,39 @@ body{
     .container__caixa{
         margin: 2em 2em;
     }
-    .secundario{
+    .container__secundario{
         margin: 0;
         text-align: center;
     }
     .secundario__imagem{
         width: 50vw;
     }
+   
+    /* dispositivos */
+
+    .dispositivos{
+        display: block;
+    }
     .dispositivos__lista{
         display: block;
     }
-    .dispositivos{
+
+    .descricao_titulo {
+        display: block;
+        align-items: center;
+    }
+    .descricao__texto{
+        text-align: center;
+    }
+
+    /*rodape */
+    .rodape{
         display: block;
     }
     .rodape__lista{
         display: block;
     }
-    .descricao_titulo {
+    .rodape__texto{
         display: block;
-        align-items: center;
-    }
-    .descricao_paragrafo {
-        text-align: center;
     }
 }
