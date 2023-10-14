@@ -163,17 +163,12 @@ body{
     .dispositivos__lista{
         display: block;
     }
-    .dispositivos__titulo{
-        display: block;
-    }
     .rodape_logo{
         text-align: center;
     }
     .rodape__lista{
         display: block;
     }
-    .patrocinadores__lista{
-        display: block;
     }
     .descricao__texto{
         display: block;
